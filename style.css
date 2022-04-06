@@ -1,21 +1,21 @@
+body{
+    background-image: url("images/jess-bailey-l3N9Q27zULw-unsplash.jpg");
+    background-size:contain;
+    background-position: center;
+}
+/* 
 .upper-container{
-    background-image: url("images/veeterzy-sMQiL_2v4vs-unsplash.jpg");
-    background-size: contain;
+    background-image: url("images/jess-bailey-l3N9Q27zULw-unsplash.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+} */
+
+form{
+    background-color: gray;
 }
 
-h1{
-    color: #fff;
+.card-img-top{
+    height: 422px;
+    width: 328px;
 }
 
-#reviews{
-    background-color: #a7d129;
-}
-
-#contact{
-    background-color: #616f39;
-    color: #fff;
-}
-
-#about{
-    background-color: #3e432e;
-}  
