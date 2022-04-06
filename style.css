@@ -1,0 +1,21 @@
+.upper-container{
+    background-image: url("images/veeterzy-sMQiL_2v4vs-unsplash.jpg");
+    background-size: contain;
+}
+
+h1{
+    color: #fff;
+}
+
+#reviews{
+    background-color: #a7d129;
+}
+
+#contact{
+    background-color: #616f39;
+    color: #fff;
+}
+
+#about{
+    background-color: #3e432e;
+}  
